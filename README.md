@@ -1,7 +1,5 @@
 # Future-Trends-Scalable-Systems
 
----
-
 ## 1. Current State (2025)
 
 | Layer                   | Technologies / Notes                               |
